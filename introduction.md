@@ -1,4 +1,0 @@
-The Python Standard Library contributes significantly to Python’s success. The language comes with “batteries included”, so it is easy for people to become productive with just the standard library alone. It is therefore important that the usefulness of the standard library be maintained.
-
-Due to the visibility and importance of the standard library, it must be maintained thoughtfully. As such, any code within it must be maintained by Python’s development team which leads to a perpetual cost to each addition made. There is also added cognitive load for users in familiarizing themselves with what is in the standard library to be considered.
-New functionality is commonly added to the library in the form of new modules. This PEP will describe the procedure for the addition of new modules. PEP 4 deals with procedures for deprecation of modules; the removal of old and unused modules from the standard library.
